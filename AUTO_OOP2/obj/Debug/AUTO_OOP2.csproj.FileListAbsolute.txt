@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\bin\Debug\AUTO_OOP2.exe.config
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\bin\Debug\AUTO_OOP2.exe
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\bin\Debug\AUTO_OOP2.pdb
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\obj\Debug\AUTO_OOP2.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\obj\Debug\AUTO_OOP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\obj\Debug\AUTO_OOP2.Form1.resources
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\obj\Debug\AUTO_OOP2.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\obj\Debug\AUTO_OOP2.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\obj\Debug\AUTO_OOP2.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\obj\Debug\AUTO_OOP2.exe
+C:\Users\svehl\Desktop\PRG\TRETAK\AUTO_OOP2\obj\Debug\AUTO_OOP2.pdb
